@@ -1,4 +1,4 @@
-![Techium Logo](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/12/5d9e347964a9cc0e3e24.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20250708%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20250708T161014Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=35de147158d6092afcb747f9185b08b510659e02473c916157f3f891a8eda898)
+![Techium Logo]([https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/12/5d9e347964a9cc0e3e24.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20250708%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20250708T161014Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=35de147158d6092afcb747f9185b08b510659e02473c916157f3f891a8eda898](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/12/5d9e347964a9cc0e3e24.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20250708%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20250708T161014Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=35de147158d6092afcb747f9185b08b510659e02473c916157f3f891a8eda898)
 
 # HTML Advanced - Techium Website
 
