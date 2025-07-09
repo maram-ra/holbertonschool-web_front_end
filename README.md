@@ -1,5 +1,5 @@
 
-# HTML Advanced - Techium Website
+# HTML 
 
 This project is part of the **Foundations v2.1 - Part 2** curriculum at Holberton School. It focuses on advanced usage of **HTML5 semantic elements** to structure the layout and content of a professional website called **Techium**, a fictional digital agency.
 
