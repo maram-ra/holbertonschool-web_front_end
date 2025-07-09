@@ -41,13 +41,3 @@ All files are located in the `html_advanced/` directory. Each task builds increm
 - All assets must be placed in correct directories and referenced properly
 - Semantic HTML is required – no inline styles or CSS used
 
-## Screenshots
-
-> No styling is included in this phase. All pages are purely structural and “ugly by design.”
-
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/holbertonschool-web_front_end.git
-   cd holbertonschool-web_front_end/html_advanced
