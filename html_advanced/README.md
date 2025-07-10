@@ -1,4 +1,4 @@
-# HTML - Elements of a Web Page
+# HTML 
 
 ## Description
 This project focuses on understanding and using semantic HTML5 to structure a web page.  
