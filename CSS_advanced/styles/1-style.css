@@ -1,1 +1,5 @@
+/* Task 1: Smooth scroll behavior */
+html {
+  scroll-behavior: smooth;
+}
 
